@@ -2,6 +2,6 @@
 
 
 - 🔭 Atualmente estudo desenvolvimento Web e áreas correlatas
-- 🌱 Bacharelando em Ciêcias da Computação
+- 🌱 Bacharelando em Ciências da Computação
 
 
